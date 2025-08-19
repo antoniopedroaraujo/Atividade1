@@ -21,6 +21,7 @@ public class Caminhao implements Veiculo {
                 "\n cor='" + cor + '\'' +
                 "\n quilometragem=" + quilometragem +
                 "\n valorEmReais=" + valorEmReais +
-                "\n--------------------";
+                "\n--------------------\n";
     }
 }
+
