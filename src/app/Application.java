@@ -41,9 +41,13 @@ public class Application {
         System.out.println("\nREGISTROS CONCLUIDOS!");
 
         for (Veiculo veiculo : veiculoList) {
+
+            input.nextLine();
             System.out.println(veiculo.mostrarDados());
+            
         }
 
     }
 
 }
+
